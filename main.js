@@ -4,7 +4,7 @@ var name = document.querySelector('.person_name');
 var next = document.querySelector('.next')
 
 
-for(var i =1; i<3 ; i++){
+for(var i =1; i<13 ; i++){
    arr.push(prompt("enter next name: "));
    
 }

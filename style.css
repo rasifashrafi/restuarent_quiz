@@ -1,6 +1,13 @@
 body{
     margin: 0;
+    height: 100vh;
+    background: linear-gradient(0deg, #000b77, #2e3aa8, #5560cb, #969cda);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
+
 
 button{
     margin-left: 45vw;
